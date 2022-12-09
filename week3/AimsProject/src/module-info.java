@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author qdanh
+ *
+ */
+module AimsProject {
+}
